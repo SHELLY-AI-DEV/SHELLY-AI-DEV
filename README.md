@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I'm Shelly Chopra
 
-<!--
-**SHELLY-AI-DEV/SHELLY-AI-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI-Powered Full Stack Developer  
+🌍 Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+### 🧠 Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express / Django
+- Database: MongoDB
+- AI: ChatGPT API, Gemini API
+- Tools: Git, GitHub, Vercel, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+- 🤖 AI Customer Support Chatbot
+- 📄 AI Resume Analyzer
+- 🛒 Product Recommendation System
+
+### 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/shelly-chopra-192171303
+- Portfolio: Coming Soon
